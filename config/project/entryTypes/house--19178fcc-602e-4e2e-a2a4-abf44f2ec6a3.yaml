@@ -148,6 +148,22 @@ fieldLayouts:
             warning: null
             width: 100
           -
+            dateAdded: '2024-11-22T09:13:57+00:00'
+            elementCondition: null
+            fieldUid: 31346066-9d3e-45aa-a081-64b095cae202 # Category
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: c854ee0f-3681-45e4-852b-71cc6fb61e60
+            userCondition: null
+            warning: null
+            width: 100
+          -
             dateAdded: '2024-11-22T08:26:04+00:00'
             elementCondition: null
             fieldUid: 8a6e77eb-bea5-4721-ad68-8c67dd844d20 # Strengths
